@@ -9,7 +9,9 @@ public class Homework_1 {
 	public static void main(String[] args) {
 		String connorGitId = "Conj43";
 		String connorName = "Connor Joyce";
-		
+		String kymaniGitId = "bulbousduke"
+		String kymaniName = "Kymani Scott"		
+
 		
 		printInfo(connorName, connorGitId);
 		

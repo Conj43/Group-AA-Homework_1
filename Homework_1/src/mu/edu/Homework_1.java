@@ -9,14 +9,21 @@ public class Homework_1 {
 	public static void main(String[] args) {
 		String connorGitId = "Conj43";
 		String connorName = "Connor Joyce";
-		String kymaniGitId = "bulbousduke"
-		String kymaniName = "Kymani Scott"
+
+    printInfo(connorName, connorGitId);
+    
 		String colinGitId = "ColinBuchheit";
 		String colinName = "Colin Buchheit";
 
 		
-		printInfo(connorName, connorGitId);
 		printInfo(colinName, colinGitId);
+
+		String kymaniGitId = "bulbousduke";
+		String kymaniName = "Kymani Scott";		
+
+
+		printInfo(kymaniName, kymaniGitId);
+
 		
 		String drewGitId = "Drew_Dis1";
 		String drewName = "Drew Distler";
@@ -24,6 +31,7 @@ public class Homework_1 {
 		
 		printInfo(drewName, drewGitId);
 
+		//hello
 	}
 	
 	

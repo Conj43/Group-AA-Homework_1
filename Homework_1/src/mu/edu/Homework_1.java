@@ -9,11 +9,18 @@ public class Homework_1 {
 	public static void main(String[] args) {
 		String connorGitId = "Conj43";
 		String connorName = "Connor Joyce";
+
+    printInfo(connorName, connorGitId);
+    
+		String colinGitId = "ColinBuchheit";
+		String colinName = "Colin Buchheit";
+
+		
+		printInfo(colinName, colinGitId);
+
 		String kymaniGitId = "bulbousduke";
 		String kymaniName = "Kymani Scott";		
 
-		
-		printInfo(connorName, connorGitId);
 
 		printInfo(kymaniName, kymaniGitId);
 

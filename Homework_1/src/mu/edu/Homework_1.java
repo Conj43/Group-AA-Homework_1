@@ -12,8 +12,16 @@ public class Homework_1 {
 		
 		
 		printInfo(connorName, connorGitId);
+		
+		String drewGitId = "Drew_Dis1";
+		String drewName = "Drew Distler";
+		
+		
+		printInfo(drewName, drewGitId);
 
 	}
+	
+	
 	
 	
 	

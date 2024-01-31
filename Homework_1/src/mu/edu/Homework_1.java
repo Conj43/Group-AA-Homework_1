@@ -10,10 +10,13 @@ public class Homework_1 {
 		String connorGitId = "Conj43";
 		String connorName = "Connor Joyce";
 		String kymaniGitId = "bulbousduke"
-		String kymaniName = "Kymani Scott"		
+		String kymaniName = "Kymani Scott"
+		String colinGitId = "ColinBuchheit";
+		String colinName = "Colin Buchheit";
 
 		
 		printInfo(connorName, connorGitId);
+		printInfo(colinName, colinGitId);
 		
 		String drewGitId = "Drew_Dis1";
 		String drewName = "Drew Distler";
